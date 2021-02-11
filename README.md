@@ -1,2 +1,2 @@
-# 66daysoddata
+# 66daysofdata
 Repository for #66daysofdata 
