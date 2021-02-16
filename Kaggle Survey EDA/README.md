@@ -21,3 +21,10 @@ Explore <a href="https://github.com/UtkarshaVidhale/66daysofdata/blob/main/Kaggl
  - Only one in five professional data scientists are 40 or older.
  - There are signs of the numbers skewing even younger, as generation Z gets more involved. Nearly 7% of data scientists are aged 18-21.
  - Fewer than 5% of data scientists have no degree beyond a high school diploma.
+ 
+ ### Dashboard 
+ <a href="https://public.tableau.com/profile/utkarsha1135#!/vizhome/KaggleSurvey2020_16134432168450/Dashboard1">Link</a>
+ 
+ <img src="https://github.com/UtkarshaVidhale/66daysofdata/blob/main/Kaggle%20Survey%20EDA/Dashboard.png" width=1000> 
+
+ 
